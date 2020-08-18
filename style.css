@@ -1,0 +1,28 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+ body {
+    padding:0;
+    margin:0;
+    overflow:hidden;
+  height: 600px;
+}
+canvas {
+    padding:0;
+    margin:0;
+}
+div.btnbg {
+    position:fixed;
+    left:0;
+    top:0;
+}
+h1,h2,h3{
+	margin-top:0;
+	position:center;
+	text-align:center;
+}
+h1{
+	padding-top:350px;
+}
